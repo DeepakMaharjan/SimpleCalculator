@@ -14,7 +14,7 @@
         android:background="#00000000"
         android:gravity="right"
         android:hint="0"
-        android:inputType="none"
+        android:enabled="false"
         android:padding="30dp"
         android:textColor="#fff"
         android:textColorHint="#fff"
